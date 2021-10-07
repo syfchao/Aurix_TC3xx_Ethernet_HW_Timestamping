@@ -1,4 +1,4 @@
-# Aurix_TC3xx_Ethernet_HW_Timestamping
+# Aurix TC3xx Ethernet Hardware Timestamping
 
 This Code-Example can be used with the TC375 LiteKit and the Aurix Development Studio and shows how to use the HW-Timestamping feature of the Ethernet-MAC.
 It is based on iLLD drivers.
