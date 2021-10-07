@@ -5,6 +5,8 @@ It is based on iLLD drivers.
 
 The lwIP pbuf-structure was modified to have an additional field for seconds and nanoseconds. Therfore the RX/TX timestamps can be readback easily by the application software.
 See the UDP echo example how it is used.
+Please use the project as it is, as there have been made deep modifications on the iLLD Ethernet-MAC driver.
+
 
 
 ![alt text](hwtime.PNG)
